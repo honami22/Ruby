@@ -1,4 +1,4 @@
-def greeting(name)
+def greeting(name)  #引数は任意
   return "Hello, #{name}!" #この行のnameは、引数で渡すname
   "Good marning, #{name}!"
 end
